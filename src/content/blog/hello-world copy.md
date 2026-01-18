@@ -1,5 +1,5 @@
 ---
-title: 'first post'
+title: 'first post test'
 description: 'First post on my new Astro blog.'
 pubDate: 'Jan 19 2026'
 tags: ['coding', 'astro', 'learning', 'test']
