@@ -8,8 +8,8 @@ import { getCollection } from 'astro:content';
 // 1. Get all posts
 const allPosts = await getCollection('blog');
 
-// 2. Get all tags from those posts and make them unique
-const tags = [...new Set(allPosts.flatMap(post => post.data.tags || []))];
+// 2. Safely get tags (filtering out any posts that might not have them)
+const tags = [...new Set(allPosts.flatMap(post => post.data.tags || []))].filter(Boolean);
 ---
 
 <!doctype html>
