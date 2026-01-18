@@ -44,3 +44,17 @@ a:hover {
 header {
 	background-color: var(--bg-color) !important;
 }
+/* Layout Centering Fix */
+main {
+	width: 720px;
+	max-width: calc(100% - 2em);
+	margin: auto;
+	padding: 3em 1em;
+}
+
+/* Make images fluid */
+img {
+	max-width: 100%;
+	height: auto;
+	border-radius: 8px;
+}
