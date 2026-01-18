@@ -1,8 +1,15 @@
 ---
 import BaseHead from '../components/BaseHead.astro';
-import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
-import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import { getCollection } from 'astro:content';
+
+// 1. Get all posts
+const allPosts = await getCollection('blog');
+
+// 2. Get all tags from those posts and make them unique
+const tags = [...new Set(allPosts.flatMap(post => post.data.tags || []))];
 ---
 
 <!doctype html>
@@ -17,6 +24,14 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 			<p>
 				hi this is my blog
 			</p>
+			<div class="tag-cloud">
+				<h3>Explore by Tag:</h3>
+				<div class="tags">
+						{tags.map((tag) => (
+							<a href={`/my-blog/tags/${tag}`}>#{tag}</a>
+						))}
+					</div>
+			</div>
 			<p>
 				Stay tuned for more updates.
 			</p>
@@ -24,3 +39,36 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 		<Footer />
 	</body>
 </html>
+
+<style>
+    /* Styling the container */
+    .tag-cloud {
+        margin: 2em 0;
+        padding: 1em;
+        background: rgba(255, 255, 255, 0.05); /* Slight highlight */
+        border-radius: 8px;
+    }
+    
+    /* Styling the buttons (Reuse of what we did before) */
+    .tags {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+    
+    .tags a {
+        padding: 0.5em 1em;
+        border: 1px solid var(--accent);
+        border-radius: 99px;
+        color: var(--accent);
+        text-decoration: none;
+        font-size: 0.9em;
+        transition: all 0.2s;
+    }
+    
+    .tags a:hover {
+        background-color: var(--accent);
+        color: white;
+        transform: translateY(-2px); /* Little hop effect */
+    }
+</style>
