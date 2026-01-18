@@ -5,17 +5,35 @@
  */
 
 :root {
-	--accent: #2337ff;
-	--accent-dark: #000d8a;
-	--black: 15, 18, 25;
-	--gray: 96, 115, 159;
-	--gray-light: 229, 233, 240;
-	--gray-dark: 34, 41, 57;
-	--gray-gradient: rgba(var(--gray-light), 50%), #fff;
-	--box-shadow:
-		0 2px 6px rgba(var(--gray), 25%), 0 8px 24px rgba(var(--gray), 33%), 0 16px 32px
-		rgba(var(--gray), 33%);
+	/* Dark Mode Colors by default */
+	--global-font-family: 'Atkinson Hyperlegible', sans-serif;
+	
+	/* Background is now dark gray (almost black) */
+	--bg-color: #202125;
+	/* Text is now off-white */
+	--text-color: rgb(224, 224, 224);
+	
+	/* Links are a nice purple/blue */
+	--accent: 124, 58, 237;
+	--accent-light: 224, 204, 250;
+	--accent-dark: 49, 10, 101;
+	
+	/* Borders are subtle gray */
+	--gray: 96, 96, 96;
+	--gray-light: 60, 60, 60;
+	--gray-dark: 34, 34, 34;
+	--gray-gradient: rgba(var(--gray-light), 50%), #202125;
+	
+	/* Shadow color */
+	--box-shadow: 0 2px 6px rgba(var(--gray), 25%), 0 8px 24px rgba(var(--gray), 33%), 0 16px 32px rgba(var(--gray), 33%);
 }
+
+/* Also ensure the body uses these variables */
+body {
+	background-color: var(--bg-color);
+	color: var(--text-color);
+}
+
 @font-face {
 	font-family: "Atkinson";
 	src: url("/fonts/atkinson-regular.woff") format("woff");
