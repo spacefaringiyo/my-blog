@@ -6,12 +6,12 @@ tags: ['poe']
 heroImage: '../../assets/blog-placeholder-5.jpg'
 ---
 
-#Act 1
+# Act 1
 
 #Create
 Templar, Witch x2, and Ranger
 
-#Quest gems
+# Quest gems
 
 Templar:
 Kill Hillock - Rolling manga
@@ -29,7 +29,7 @@ Ranger(Run this once ready to farm labs):
 Mud Flats - Sniper's Mark
 Kill Brutus - Mirrow Arrow
 
-#Gem level scaling
+# Gem level scaling
 Lvl1: 4
 Lvl2: 6
 Lvl3: 9
