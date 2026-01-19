@@ -1,7 +1,7 @@
 ---
 title: 'SSF Ruthless League Start Planning'
 description: 'for MA Guardian, Act 1'
-pubDate: 'Jan 19 2026'
+pubDate: 'Jan 20 2026'
 tags: ['poe']
 heroImage: '../../assets/blog-placeholder-5.jpg'
 ---
