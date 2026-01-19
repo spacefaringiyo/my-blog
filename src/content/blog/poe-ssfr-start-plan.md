@@ -6,9 +6,8 @@ tags: ['poe']
 heroImage: '../../assets/blog-placeholder-5.jpg'
 ---
 
-# Act 1
+# Create
 
-#Create
 Templar, Witch x2, and Ranger
 
 # Quest gems
@@ -30,11 +29,13 @@ Mud Flats - Sniper's Mark
 Kill Brutus - Mirrow Arrow
 
 # Gem level scaling
+
 Lvl1: 4
 Lvl2: 6
 Lvl3: 9
 Do not level gems until both characters are ready
 
+# Steps
 
 Step 1
 Take Templar to Mud Flats, progress until level 4 
