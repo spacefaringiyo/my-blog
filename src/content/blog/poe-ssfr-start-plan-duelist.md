@@ -6,6 +6,21 @@ tags: ['poe']
 heroImage: '@assets/スクリーンショット 2026-01-21 064852.png'
 ---
 
+Update Jan 22  
+
+# Second run, without muling (except for Spectral Throw)  
+Brute: 23 mins  
+Marveil: 37 mins  
+Died 2 times to Kuduku - Do not fight that boss  
+Marveil fight:  
+Used Rain of Arrow + Fire Quiver  
+Died a couple of times - mostly skill issue  
+Though damage wasn't impressive  
+It was very possible for me to not find that quiver, which would have forced me to farm extra  
+Flame Wall + Spectral Throw might yield more damage anyway  
+
+---
+
 # why duelist now?
 With Phrecia league coming up, I've decided to go with Paladin acendancy to go with Mirror Arrow.  
 
