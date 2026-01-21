@@ -11,6 +11,7 @@ Update Jan 22
 # Second run, without muling (except for Spectral Throw)  
 Brute: 23 mins  
 Marveil: 37 mins  
+
 Died 2 times to Kuduku - Do not fight that boss  
 Marveil fight:  
 Used Rain of Arrow + Fire Quiver  
@@ -22,6 +23,7 @@ Flame Wall + Spectral Throw might yield more damage anyway.
 # Third run  
 Brute: 24 mins  
 Marveil: 45 mins  
+
 No fire weapon or quiver.  
 Normal weapon felt really weak in prison, died a couple of times and stuck with bad layout reading.  
 Marveil fight was only saved with a rare Jade Chopper (had to allocate +30 str to use it).  
@@ -30,7 +32,22 @@ It was smoothest fight so far. Improved player skill helped.
 Note: level 15 is when Precise Technique become available (almost got to it).  
 Since there is no way to force fire damage, I should get Flame Wall after all.  
 Also, Vitality aura is probably better. Do not need Precision aura and survivability saves a lot of time.  
+Didn't even drop a bow as far as I'm aware.  
 
+# Fourth run  
+Brute: 23 mins  
+Marveil: 44 mins + 5 mins (Flame Wall)  
+
+2nd Quicksilver flask was not needed / I couldn't utilized it well.  
+Had difficulties utilizing both Decoy Totem and Flame Wall on bosses.  
+Missed waypoint on Shipyard and didn't portal out.  
+Died many times to exploding sea monsters. Which probably could've mitigated a little if I used armour chest piece instead of Evasion + Energy Shield Chest.  
+Did a lot of damage against Marveil even with mediocre 24% phys inc 2 hand weapon.  
+
+Major problems are:  
+Skill binds and gameplay  
+Was rushing too much into deaths  
+  
 
 ---
 
