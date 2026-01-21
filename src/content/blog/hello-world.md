@@ -10,3 +10,5 @@ heroImage: '../../assets/blog-placeholder-5.jpg'
 
 ![snakecat](../../../public/images/5ds4sq6b9udg1.jpeg)
 test
+
+Gemini 3 Pro helped me set this up
