@@ -14,10 +14,23 @@ Marveil: 37 mins
 Died 2 times to Kuduku - Do not fight that boss  
 Marveil fight:  
 Used Rain of Arrow + Fire Quiver  
-Died a couple of times - mostly skill issue  
-Though damage wasn't impressive  
-It was very possible for me to not find that quiver, which would have forced me to farm extra  
-Flame Wall + Spectral Throw might yield more damage anyway  
+Died a couple of times - mostly skill issue.  
+Though damage wasn't impressive.  
+It was very possible for me to not find that quiver, which would have forced me to farm extra.  
+Flame Wall + Spectral Throw might yield more damage anyway.  
+
+# Third run  
+Brute: 24 mins  
+Marveil: 45 mins  
+No fire weapon or quiver.  
+Normal weapon felt really weak in prison, died a couple of times and stuck with bad layout reading.  
+Marveil fight was only saved with a rare Jade Chopper (had to allocate +30 str to use it).  
+It was smoothest fight so far. Improved player skill helped.    
+![jade chopper](../../assets/jadechopper.png)  
+Note: level 15 is when Precise Technique become available (almost got to it).  
+Since there is no way to force fire damage, I should get Flame Wall after all.  
+Also, Vitality aura is probably better. Do not need Precision aura and survivability saves a lot of time.  
+
 
 ---
 
