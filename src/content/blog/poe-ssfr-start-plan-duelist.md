@@ -48,6 +48,8 @@ Major problems are:
 Skill binds and gameplay  
 Was rushing too much into deaths  
   
+Flame Wall is most likely worth it.  
+Just need to improve mechanics.  
 
 ---
 
