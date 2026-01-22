@@ -3,7 +3,7 @@ title: 'my personal thoughts on community'
 description: ''
 pubDate: 'Jan 22 2026'
 tags: ['TMT']
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-4.jpg'
 ---
 
 Community feels like a living organism.  
