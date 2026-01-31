@@ -51,6 +51,46 @@ Was rushing too much into deaths
 Flame Wall is most likely worth it.  
 Just need to improve mechanics.  
 
+# Fifth run  
+Brute: 23 mins  
+Marveil: 39 mins  
+ST mule only.  
+
+Reletively smooth run.  
+Low level base flat (low) damage weapon carried.  
+I can shave more minutes fighting less, as I was over leveled for Marveil, assuming I don't go for Precise Technique.  
+
+# Sixth run  
+Brute: 21 mins  
+Marveil: 33 mins  
+Act 2 finish: 1h7m (insane weapon rng)  
+
+# Seventh run
+Brute: 23 mins  
+Marveil: 37 mins  
+Act 2 finish: 1h20m  
+
+# Eighth run  
+Brute: 21 mins  
+Marveil: 38 mins  
+Act 2 finish: 1h15m (moderately insane weapon rng)  
+
+Setup conclusion after 8 runs:  
+Flame Wall is not needed.  
+It only takes at minimum a level 8 2 handed weapon and nothing more.  
+I should be getting Fire damage most runs sometimes early act 2.  
+In most runs, I'm getting some sort of good rng, if I actually used them all, most of the runs above could've been faster.  
+
+Micro optimizations:  
+Inventory space management vs Redundancy  
+I was often struggling to find green sockets.  
+Not having back up plan sometimes meant that I couldn't wear an upgrade.  
+
+Other notes:  
+Good one hander base + Shield is a good option.  
+Have a shield in the inventory.  
+
+---
 ---
 
 # why duelist now?
