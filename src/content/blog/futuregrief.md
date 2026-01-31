@@ -22,8 +22,10 @@ Not even to capitalize on it, although if I could do it I would take the opportu
 What comes next is grief.  
 Grief of abundance.  
 
+---
+
 First off, almost everyone is a doomer today. Understandably so.  
-It is true that at least half of the population is priced out of more and more things.  
+It is true that more of the population is getting priced out of more and more things.  
 It seems like younger generation won't be able to afford a living parent generation could.  
 It is possible that we are indeed headed to doom. Into permanent underclass.  
 ...Just a side note specifically on "permanent underclass". I don't think it is a thing or ever was.  
@@ -33,6 +35,8 @@ But it is not so in the modern era.  At least their children got to live vastly 
 Some entity must actively and maliciously oppress you for you to be permanent underclass.  
 My assumption is that nobody's got time for that. We all rather share and benefit together. Which doesn't mean equal benefits, but to think a class of people have absolutely no value to be celebrated seems like a physical impossibility.  
 But I won't elaborate further. I'm no economist. It's more of a belief thing. So I should rephrase from a physical impossibility to a spiritual impossibility.  
+
+---
 
 This is a dangerous bet.  
 Thinking that things go well based on vibes.  
