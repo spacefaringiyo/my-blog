@@ -46,9 +46,11 @@ But also I think of the downside of **not being prepared for abandunce.**
 
 My personal my trajectory was and still not is good, at all.  
 To cope, both psychologically and physically, I have adopted to not want certain things.  
-Instead of listing what I gave up, let's look at ealier generations habits due to adaptation.  
-My grandfather, born around end of WW2, adopted to eat as fast as possible of as calory rich food as possible. That was practical behavior at the time when he was growing up.  
-He was so well adapted to that circumstance, he never gave those habits up. Needless to say there are a lot of medical donwsides to these today where calory is abundant.  
+Instead of listing what I gave up, let's look at example of ealier generation's habits due to adaptation. Probably easier to see and relate than my own.  
+
+Many of the older generation growing up in severe scarcity, adopted to eat as fast as possible of as calory rich food as possible. That was practical behavior at the time when they were growing up.  
+They were so well adapted to that circumstance, they never gave those habits up.  
+Needless to say there are a lot of medical donwsides to these habits today where calory is abundant.  
 
 ---  
 
