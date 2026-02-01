@@ -1,7 +1,7 @@
 ---
 title: 'Diary Feb. 2026'
 description: ''
-pubDate: 'Fed 1 2026'
+pubDate: 'Feb 1 2026'
 tags: ['Diary']
 heroImage: '../../assets/blog-placeholder-5.jpg'
 ---
