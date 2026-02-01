@@ -1,4 +1,4 @@
 // src/consts.ts
 
-export const SITE_TITLE = 'iyo blog';
-export const SITE_DESCRIPTION = 'Welcome to my galaxy!';
+export const SITE_TITLE = 'a blog';
+export const SITE_DESCRIPTION = ''; 
