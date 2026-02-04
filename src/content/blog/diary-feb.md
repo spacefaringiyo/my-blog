@@ -14,6 +14,7 @@ But back to the present day... We care so much about "who do we associate with" 
 For those factors, it makes sense to start leaning into more forgiveness, even if today that might seem like a irresponsible attitude or in emotional sense too much hypocracy for us to just accept as positive thing in one go.  
 Punishment sucks and we want to advance technologies as fast and as further as possible so that mistakes can only be personal challenge one (and others around) can accept to overcome.  
 If you are greedy, you would want to forgive others as that is what you would easily be able to do in richer society/systems.  
+(P.S. I'm starting to realize most people aren't greedy. They don't want better technology. They are content with current ones we have, and whatever we are defficient in, they are fine with compensating it with moral and blood. I respect the spirit but, I think there are easier and more satisfying ways to conduct our lives.)
 
 # 2/2  
 Decided to have a space for myself for a week, right before a drama hits the community which made me want to comment strongly but is ultimately unrelated to me (so I shouldn't really have commented either way but I know I would've).  
