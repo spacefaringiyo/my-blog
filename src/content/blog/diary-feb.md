@@ -6,6 +6,15 @@ tags: ['Diary']
 heroImage: '../../assets/blog-placeholder-5.jpg'
 ---
 
+# 2/8  
+It will come to a point one day where my human desires get saturated and not longer hard to solve or interesting at all.  
+For some things it is already happening. My immediate reaction is to be cautious. How am I settling with something that is by definition not interesting? Many words to describe that kind of state, often unfavourable.  
+But as I said, this is an eventuality and maybe there is positive way to spin this.  
+Besides, there is always new challenges. Unless one day there isn't, in which case, I would be fine to decommission myself (if I'm not fine, then it's not the time yet).  
+I guess I might be being unambitious by being content now, instead of trying to reach for greater highs. But I've known worse, it doesn't feel bad to be content and happy now. So what now? Do I now find something to want and suffer for? This is new. I don't know.  
+In one sense, this is a loss. I would never get in the way of progress, but solved problem is the one you can no longer have full and "authentic" ability to appreciate.  
+Let me go find something I can suffer today, even though they totally suck and I want the problem be gone next morning.  
+
 # 2/4  
 It is prudent to call out wrong doing and provide consequence for those who did the wrong doings, but also increasing the compassion and mechanical understanding of how mistakes do happen is a good thing.  
 For not only that is humane in one axis, we also know that we are going to have greater affordance for facilitation, meaning things we can only manage by punishment now can in the future be dealt with through other means or not happen or be it a problem in the first place.  
