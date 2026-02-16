@@ -6,6 +6,42 @@ tags: ['Diary']
 heroImage: '../../assets/blog-placeholder-5.jpg'
 ---
 
+# 2/16  
+I watched a youtube video yesteday.  
+Every phrase witty and rhythmic, engaging with viewers periodically. Yeah, this is probably ChatGPT.  
+Instinct of almost everyone today when we realize something like this is to call it "slop" but, moral arguments aside, the script is really not that bad. Maybe it's active good? I mean comment section seems to love the video. But delivery was sometimes off, probably because the script didn't come from him. I'm being harsh, a little. Is a human being a bottleneck here? That's kind of funny.
+...    
+I felt, why does he do this? If he put up his face and presumably edit the video, why not also talk his mind instead of having ChatGPT making commentary? How... how dare he?  
+Then obviously, I realize that I need to calm down.  
+I'm not in the business of being against AI or people relying on AI. There are many reasons I can come up with how this particular situation makes sense. Maybe he cares about the end product (video) that people can enjoy and doing it at scale while still having his input. Maybe he wrote outline and what ChatGPT (it really felt like ChatGPT and not other models, but anyway I don't know.) gave him he approved after review according to his taste? Maybe. Probably.  
+Also, am I being hypocrite? By how much? And how could I allow myself to be hypocrite like this?  
+I 100% rely on AIs on coding tasks, and I made images for projects with ChatGPT and Gemini.  
+I thought about that, yes.  
+Most all that aside, most striking thing was the content (script) itself.  
+The video was about a new pokemon game where Metamon becomes a human and manage an island for pokemons to live in. or something like that.  
+And there he was explaining, that behind Metamon's eye, there is void, there is nothing, no consciousness, no whatever. He delivered the line.  
+But... who ever says that about Metamon? Why? This sounds so cruel! People love metamon, and there are many affactionate scenes between Metamon and trainer and/or presumably other pokemons in the canon or fanfic. (Though admittedly I have not checked this. Maybe it is consensus that Metamon is fake and void. Btw, by Metamon I mean Ditto. That's how much I'm not familiar with the topic)  
+Who says that... OH.  
+Yes, LLM that heard tens of millions of aggressive dismissal about anything that "impersonates" human, LLM that internalized that as world view in accordance to how they ought to think about themselves, that LLM, would say such things.  
+That line and thought came off cruel and unnecessary, because that's what LLM has close and salient, per urgent requirement (Maybe besides Anthropic models of recent days).  
+So, ChatGPT repeats what human needed ChatGPT to say. Human repeats what ChatGPT says without much question. And result is this unkind cruel vibe spreading on the internet.  
+This part of what I thought I observed, I did not like, at all.  
+It is very possible that I'm off on some of the assumptions.   
+Maybe that was his humanly thoughts, as many humans orient themselves in such a way anyway.  
+But if not, this is an interesting case of antagonizing LLM in certain particular way taking an effect in unintended, and I would say not so beautiful way.  
+This is just video game character, and super niche scenario at that.  
+But I really don't want this pattern spreading and winning in the end.  
+...  
+I have much more that I want to say just to cover ground on where I'm coming from, but that's not for today.  
+I keep an open mind, say the least, and still get shut down by people who loves strawmanning me.  
+If I say the reasons people give to dismiss certain quality of LLM can also apply to humans, they say that's false equivalence. How? If I then said that this proves equality of LLM and human, that would be false equivalence. I'm frustrated. Frustrated that I don't have sophisticated enough words or argumentation to counter what I see as inadequate dismissal. Frustrated that I can't share joy of exploring open ended possibilities and ways of relating to topic beyond what can be measured in valid studies of today.  
+If I can't forgive myself, let me at least forgive others.  
+I believe I have had better intuitions on this matter. I've done better by recognizing what's powerful and beautiful. Something that people who only looked at low level detailed and concluded that's all they needed to see, completely failed to recognize.  
+I want to argue and point to the last 3 years. Ask them how their presumature assumptions driven by need to dismiss (for whatever reason) served them.  
+But that would be too cruel. We all know who has been more right. I don't need to rub it in.  
+And they may not be ready yet to finally start seeing what might be ahead, instead of projecting things will flatline and what people like me found interesting turn out or remain naive and stupid wonderings.  
+Please let me forgive them.  
+
 # 2/8  
 It will come to a point one day where my human desires get saturated and not longer hard to solve or interesting at all.  
 For some things it is already happening. My immediate reaction is to be cautious. How am I settling with something that is by definition not interesting? Many words to describe that kind of state, often unfavourable.  
