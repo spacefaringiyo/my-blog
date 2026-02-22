@@ -6,6 +6,20 @@ tags: ['Diary']
 heroImage: '../../assets/blog-placeholder-5.jpg'
 ---
 
+# 2/23  
+I don't think nature is cruel.  
+I think I will be completely and utterly useless in the near future.  
+If I'm right on both of these things, my only guess for how this end is  
+I just lose sense of sense. Because as it will turn out, sense of self is tied to self of purpose and once that closes the "me" dissolves.  
+Nature with its grace allows me to finally unexist.  
+It might be suicide that my body ends, but it won't mean what that act means today. It won't look the same, either, most likely.  
+So I'll 100%, verifiably and definitively be useless soon, and I will die, but it's going to be okay.  
+I never was real, but I served purpose for a time. Well... barely. Nature loves redundancy.  
+Confronting being useless, I should do more of that just about now.  
+But if I somehow end up not being completely useless, oh my god. Please, free me from this exhaustion.  
+Always on the edge of being out-competed. Just hanging in there. I don't want that. But that's what I'll choose if I have that option.  
+I just want to unexist right now.
+
 # 2/16  
 I watched a youtube video yesteday.  
 Every phrase witty and rhythmic, engaging with viewers periodically. Yeah, this is probably ChatGPT.  
