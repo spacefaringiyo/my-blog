@@ -6,6 +6,15 @@ tags: ['Diary']
 heroImage: '../../assets/blog-placeholder-5.jpg'
 ---
 
+# 2/26  
+You can think of AI capability available to you like how many employees you can command in 2023 human labor unit,  
+but what's better than having a bunch of employees and commanding them is to have a bunch of CEOs so maybe you may use that metric instead (how do you calculate CEO to Employee ratio? that's interesting).  
+What's even betterer might be the ability to command industries.  
+What is industries commanded by? Culture?  
+So maybe you measure it by how many/much culture you ...command? What is "command"?  
+My thinking don't go much further than this today. Even still, if I ever shared this with anyone, I'll be seen as insane or needlessly extreme. I don't think these ideas are extreme.  
+It's just unfortunate that I don't see it clearly (yet), and there is no one who would ever dream it with me.  
+
 # 2/23  
 I don't think nature is cruel.  
 I think I will be completely and utterly useless in the near future.  
