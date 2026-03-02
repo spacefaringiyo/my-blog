@@ -1,10 +1,14 @@
 ---
-title: 'Diary Feb. 2026'
+title: 'Diary 2026'
 description: ''
 pubDate: 'Feb 1 2026'
 tags: ['Diary']
 heroImage: '../../assets/blog-placeholder-5.jpg'
 ---
+
+# 3/2  
+Chanting "I'm worthless" is really liberating and cathartic.  
+The phrase is as kinky as it is spiritual.  
 
 # 2/26  
 You can think of AI capability available to you like how many employees you can command in 2023 human labor unit,  
